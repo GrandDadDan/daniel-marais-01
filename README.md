@@ -1,3 +1,4 @@
+<h1>Linear Regression Model</h1>
 <h1>Introduction To the Problem</h1>
 
 This assignment explores linear regression using Rust and the Burn library (v0.16.0) to predict values based on the function y = 2x + 1. We will generate synthetic data with noise, define a simple AI model, and train it using gradient descent to minimize the Mean Squared Error (MSE) loss function. 
